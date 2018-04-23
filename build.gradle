@@ -1,0 +1,63 @@
+group 'com.pratik.rs'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'maven'
+
+compileJava {
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+}
+
+sourceSets {
+    test {
+        java.srcDirs = ['src/test/java']
+        resources.srcDirs = ['src/test/resources']
+    }
+}
+
+ext.cukesVersion = '1.2.5'
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: "io.appium", name: "java-client", version: "5.0.4"
+    testCompile group: 'org.testng', name: 'testng', version: '6.13'
+    testCompile group: 'com.aventstack', name: 'extentreports', version: '3.1.1'
+    testCompile group: 'log4j', name: 'log4j', version: '1.2.17'
+    testCompile group: 'com.beust', name: 'jcommander', version: '1.69'
+    testCompile group: "info.cukes", name: "cucumber-core", version: "$cukesVersion"
+    testCompile group: "info.cukes", name: "cucumber-jvm", version: "$cukesVersion"
+    testCompile group: "info.cukes", name: "cucumber-java8", version: "$cukesVersion"
+    testCompile group: 'info.cukes', name: 'cucumber-junit', version: "$cukesVersion"
+}
+
+//---------------------Cucumber Start-------------------//
+
+configurations {
+    cucumberRuntime {
+        extendsFrom testRuntime
+    }
+}
+
+task cucumber() {
+    dependsOn assemble, compileTestJava
+    doLast {
+        javaexec {
+            main = "cucumber.api.cli.Main"
+            classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+            args = ['--plugin', 'pretty',
+                    '--plugin', 'html:reports/cucumber/cucumber-html-report',
+                    '--plugin', 'junit:reports/cucumber/cucumber-junit-report.xml',
+                    '--plugin', 'json:reports/cucumber/cucumber-json-report.json',
+                    '--glue', 'stepDefinitions', 'src/test/resources/features']
+        }
+    }
+}
+//---------------------Cucumber End-------------------//
+

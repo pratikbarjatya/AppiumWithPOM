@@ -1,0 +1,446 @@
+2018-04-23 16:48:59,713 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Starting scenario Guest user watching a product 
+2018-04-23 16:48:59,942 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:00,001 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.HomePage 
+2018-04-23 16:49:00,024 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: search_box' to be present. Timeout - 5 
+2018-04-23 16:49:00,043 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: search_box 
+2018-04-23 16:49:00,172 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: search_box 
+2018-04-23 16:49:00,189 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: search_box - is Present? - true 
+2018-04-23 16:49:00,204 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: search_box 
+2018-04-23 16:49:00,631 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:00,705 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.Search 
+2018-04-23 16:49:00,717 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  **** SEARCHING FOR PRODUCT :oneplus 5t****  
+2018-04-23 16:49:07,726 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: text' to be present. Timeout - 10 
+2018-04-23 16:49:07,736 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: text 
+2018-04-23 16:49:08,534 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: text - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:09,055 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: text 
+2018-04-23 16:49:09,335 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: text - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:09,843 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: text 
+2018-04-23 16:49:10,151 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: text 
+2018-04-23 16:49:10,158 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: text - is Present? - true 
+2018-04-23 16:49:10,170 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: text 
+2018-04-23 16:49:10,633 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:10,727 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SearchResults 
+2018-04-23 16:49:10,734 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** CLICK ON SORT BUTTON: ****  
+2018-04-23 16:49:10,742 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: button_sort' to be present. Timeout - 10 
+2018-04-23 16:49:10,750 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_sort 
+2018-04-23 16:49:12,901 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: button_sort - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:13,413 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_sort 
+2018-04-23 16:49:13,856 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: button_sort - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:14,367 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_sort 
+2018-04-23 16:49:14,585 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: button_sort - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:15,099 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_sort 
+2018-04-23 16:49:17,277 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: button_sort 
+2018-04-23 16:49:17,285 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: button_sort - is Present? - true 
+2018-04-23 16:49:17,298 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: button_sort 
+2018-04-23 16:49:18,531 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** CLICKED ON SORT BUTTON: ****  
+2018-04-23 16:49:18,542 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:18,846 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SortResults 
+2018-04-23 16:49:18,874 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** SORTING RESULTS BY: **** Highest Price 
+2018-04-23 16:49:18,888 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: button_done' to be present. Timeout - 5 
+2018-04-23 16:49:18,917 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_done 
+2018-04-23 16:49:19,714 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: button_done 
+2018-04-23 16:49:19,722 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: button_done - is Present? - true 
+2018-04-23 16:49:20,731 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] *** CLICKED ON FILTER ***Highest Price + Shipping 
+2018-04-23 16:49:20,930 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:20,972 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SearchResults 
+2018-04-23 16:49:20,989 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: search_item_text' to be present. Timeout - 10 
+2018-04-23 16:49:20,997 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: search_item_text 
+2018-04-23 16:49:23,291 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: search_item_text 
+2018-04-23 16:49:23,299 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: search_item_text - is Present? - true 
+2018-04-23 16:49:23,305 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** CLICK ON FIRST AVAILABLE PRODUCT ****  
+2018-04-23 16:49:23,312 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: search_item_text 
+2018-04-23 16:49:23,733 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:23,810 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.ProductDetails 
+2018-04-23 16:49:23,816 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** WATCHING A PRODUCT ****  
+2018-04-23 16:49:23,824 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: button_watch' to be present. Timeout - 5 
+2018-04-23 16:49:23,836 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_watch 
+2018-04-23 16:49:28,015 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: button_watch 
+2018-04-23 16:49:28,021 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: button_watch - is Present? - true 
+2018-04-23 16:49:28,028 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: button_watch 
+2018-04-23 16:49:30,171 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:30,251 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SignIn 
+2018-04-23 16:49:30,258 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: edit_text_username' to be present. Timeout - 5 
+2018-04-23 16:49:30,265 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: edit_text_username 
+2018-04-23 16:49:31,805 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: edit_text_username 
+2018-04-23 16:49:31,820 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: edit_text_username - is Present? - true 
+2018-04-23 16:49:31,837 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] *** Enter Email Address ***helloworld@gmail.com 
+2018-04-23 16:49:31,849 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: edit_text_username 
+2018-04-23 16:49:40,949 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:41,006 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SignIn 
+2018-04-23 16:49:41,019 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: edit_text_password' to be present. Timeout - 5 
+2018-04-23 16:49:41,027 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: edit_text_password 
+2018-04-23 16:49:41,511 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: edit_text_password 
+2018-04-23 16:49:41,518 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: edit_text_password - is Present? - true 
+2018-04-23 16:49:41,524 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] *** Enter Email Address ***helloworld 
+2018-04-23 16:49:41,530 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: edit_text_password 
+2018-04-23 16:49:47,813 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: button_close' to be present. Timeout - 5 
+2018-04-23 16:49:47,821 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_close 
+2018-04-23 16:49:48,393 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: button_close 
+2018-04-23 16:49:48,398 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: button_close - is Present? - true 
+2018-04-23 16:49:48,404 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] *** CLOSING SIGN IN PAGE *** 
+2018-04-23 16:49:48,410 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: button_close 
+2018-04-23 16:49:48,670 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:48,752 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.ProductDetails 
+2018-04-23 16:49:49,851 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:49:49,908 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SearchResults 
+2018-04-23 16:49:50,412 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: textview_item_count' to be present. Timeout - 10 
+2018-04-23 16:49:50,429 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:52,400 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:52,906 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:53,337 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:53,842 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:53,948 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:54,454 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:54,880 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:55,386 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:55,751 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:56,257 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:56,826 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:57,333 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:57,441 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:57,947 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:58,109 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:58,616 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:58,733 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:49:59,239 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:49:59,574 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:50:00,082 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:50:00,307 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:50:00,814 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:50:01,631 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: textview_item_count - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:50:01,637 {yyyy-MM-dd HH:mm:ss} ERROR [LogUtils] ERROR - Expected condition failed: waiting for com.pratik.appium.pages.BasePage$$Lambda$112/1662912171@5af9926a (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=C:\Users\310061\Projects\AppiumWithPOM-master\apk\eBay_ebay_mobile.apk, appPackage=com.ebay.mobile, deviceScreenSize=1080x1920, networkConnectionEnabled=true, noReset=false, noSign=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.ebay.mobile.activities.MainActivity, desired={app=C:\Users\310061\Projects\AppiumWithPOM-master\apk\eBay_ebay_mobile.apk, appActivity=com.ebay.mobile.activities.MainActivity, appPackage=com.ebay.mobile, noReset=false, noSign=true, newCommandTimeout=99999, platformVersion=8.1.0, unicodeKeyboard=true, platformName=Android, deviceName=NEXUS_5X, resetKeyboard=true}, newCommandTimeout=99999, platformVersion=8.1.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=Android SDK built for x86, unicodeKeyboard=true, deviceManufacturer=Google, platformName=LINUX, resetKeyboard=true}]
+Session ID: 9fe0f53a-33ef-4920-ae65-73d11470e0cd
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.pratik.appium.pages.BasePage$$Lambda$112/1662912171@5af9926a (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=C:\Users\310061\Projects\AppiumWithPOM-master\apk\eBay_ebay_mobile.apk, appPackage=com.ebay.mobile, deviceScreenSize=1080x1920, networkConnectionEnabled=true, noReset=false, noSign=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.ebay.mobile.activities.MainActivity, desired={app=C:\Users\310061\Projects\AppiumWithPOM-master\apk\eBay_ebay_mobile.apk, appActivity=com.ebay.mobile.activities.MainActivity, appPackage=com.ebay.mobile, noReset=false, noSign=true, newCommandTimeout=99999, platformVersion=8.1.0, unicodeKeyboard=true, platformName=Android, deviceName=NEXUS_5X, resetKeyboard=true}, newCommandTimeout=99999, platformVersion=8.1.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=Android SDK built for x86, unicodeKeyboard=true, deviceManufacturer=Google, platformName=LINUX, resetKeyboard=true}]
+Session ID: 9fe0f53a-33ef-4920-ae65-73d11470e0cd 
+2018-04-23 16:50:01,644 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: textview_item_count 
+2018-04-23 16:50:03,635 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] *** IN AFTER SCENARIO *** 
+2018-04-23 16:50:03,661 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Scenario finishedGuest user watching a product 
+2018-04-23 16:51:21,460 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Starting scenario Guest user watching a product 
+2018-04-23 16:51:21,630 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:51:21,726 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.HomePage 
+2018-04-23 16:51:21,739 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: search_box' to be present. Timeout - 5 
+2018-04-23 16:51:21,753 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: search_box 
+2018-04-23 16:51:21,846 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: search_box 
+2018-04-23 16:51:21,855 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: search_box - is Present? - true 
+2018-04-23 16:51:21,866 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: search_box 
+2018-04-23 16:51:22,439 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:51:22,539 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.Search 
+2018-04-23 16:51:22,552 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  **** SEARCHING FOR PRODUCT :oneplus 5t****  
+2018-04-23 16:51:28,928 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: text' to be present. Timeout - 10 
+2018-04-23 16:51:28,938 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: text 
+2018-04-23 16:51:29,640 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: text - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:51:30,163 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: text 
+2018-04-23 16:51:30,350 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: text - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:51:30,859 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: text 
+2018-04-23 16:51:31,204 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: text 
+2018-04-23 16:51:31,211 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: text - is Present? - true 
+2018-04-23 16:51:31,219 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: text 
+2018-04-23 16:51:31,554 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:51:31,668 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SearchResults 
+2018-04-23 16:51:31,679 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** CLICK ON SORT BUTTON: ****  
+2018-04-23 16:51:31,689 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: button_sort' to be present. Timeout - 10 
+2018-04-23 16:51:31,747 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_sort 
+2018-04-23 16:51:33,573 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: button_sort - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:51:34,087 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_sort 
+2018-04-23 16:51:34,715 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: button_sort - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:51:35,224 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_sort 
+2018-04-23 16:51:35,809 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element - By.id: button_sort - NOT Present. Exception - 'Returned value cannot be converted to WebElement: {stacktrace=NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidDriver.callee$0$0$ (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:69:13)
+    at tryCatch (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\310061\AppData\Roaming\npm\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at <anonymous>, error=no such element, message=An element could not be located on the page using the given search parameters.}
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'WKSWUPUN0820', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: AndroidDriver'
+	Returning isElementPresent - false 
+2018-04-23 16:51:36,322 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_sort 
+2018-04-23 16:51:38,796 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: button_sort 
+2018-04-23 16:51:38,805 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: button_sort - is Present? - true 
+2018-04-23 16:51:38,819 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: button_sort 
+2018-04-23 16:51:40,331 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** CLICKED ON SORT BUTTON: ****  
+2018-04-23 16:51:40,343 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:51:40,775 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SortResults 
+2018-04-23 16:51:40,866 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** SORTING RESULTS BY: **** Highest Price 
+2018-04-23 16:51:40,891 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: button_done' to be present. Timeout - 5 
+2018-04-23 16:51:40,944 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_done 
+2018-04-23 16:51:41,338 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: button_done 
+2018-04-23 16:51:41,345 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: button_done - is Present? - true 
+2018-04-23 16:51:42,191 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] *** CLICKED ON FILTER ***Highest Price + Shipping 
+2018-04-23 16:51:42,340 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:51:42,379 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SearchResults 
+2018-04-23 16:51:42,391 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: search_item_text' to be present. Timeout - 10 
+2018-04-23 16:51:42,402 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: search_item_text 
+2018-04-23 16:51:44,103 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: search_item_text 
+2018-04-23 16:51:44,110 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: search_item_text - is Present? - true 
+2018-04-23 16:51:44,116 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** CLICK ON FIRST AVAILABLE PRODUCT ****  
+2018-04-23 16:51:44,125 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: search_item_text 
+2018-04-23 16:51:44,522 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:51:44,715 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.ProductDetails 
+2018-04-23 16:51:44,722 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** WATCHING A PRODUCT ****  
+2018-04-23 16:51:44,729 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: button_watch' to be present. Timeout - 5 
+2018-04-23 16:51:44,736 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_watch 
+2018-04-23 16:51:51,902 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: button_watch 
+2018-04-23 16:51:51,909 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: button_watch - is Present? - true 
+2018-04-23 16:51:51,916 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: button_watch 
+2018-04-23 16:51:52,319 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:51:52,413 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SignIn 
+2018-04-23 16:51:52,421 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: edit_text_username' to be present. Timeout - 5 
+2018-04-23 16:51:52,438 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: edit_text_username 
+2018-04-23 16:51:53,882 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: edit_text_username 
+2018-04-23 16:51:53,924 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: edit_text_username - is Present? - true 
+2018-04-23 16:51:53,944 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] *** Enter Email Address ***helloworld@gmail.com 
+2018-04-23 16:51:53,995 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: edit_text_username 
+2018-04-23 16:52:03,638 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:52:03,690 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SignIn 
+2018-04-23 16:52:03,697 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: edit_text_password' to be present. Timeout - 5 
+2018-04-23 16:52:03,704 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: edit_text_password 
+2018-04-23 16:52:04,173 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: edit_text_password 
+2018-04-23 16:52:04,179 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: edit_text_password - is Present? - true 
+2018-04-23 16:52:04,184 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] *** Enter Email Address ***helloworld 
+2018-04-23 16:52:04,192 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: edit_text_password 
+2018-04-23 16:52:10,314 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: button_close' to be present. Timeout - 5 
+2018-04-23 16:52:10,327 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: button_close 
+2018-04-23 16:52:10,851 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: button_close 
+2018-04-23 16:52:10,863 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: button_close - is Present? - true 
+2018-04-23 16:52:10,874 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] *** CLOSING SIGN IN PAGE *** 
+2018-04-23 16:52:10,881 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: button_close 
+2018-04-23 16:52:11,524 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:52:11,579 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.ProductDetails 
+2018-04-23 16:52:12,547 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.BasePage 
+2018-04-23 16:52:12,626 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Instantiated com.pratik.appium.pages.SearchResults 
+2018-04-23 16:52:13,399 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Wait for element - 'By.id: textview_item_count' to be present. Timeout - 10 
+2018-04-23 16:52:13,411 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Is element Present? (WebElement) - By.id: textview_item_count 
+2018-04-23 16:52:14,741 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Element Present (By) - By.id: textview_item_count 
+2018-04-23 16:52:14,748 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] androidElement  - 'By.id: textview_item_count - is Present? - true 
+2018-04-23 16:52:14,778 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Click on - By.id: textview_item_count 
+2018-04-23 16:52:18,078 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** ITEMS LESS THAN 3 ****  
+2018-04-23 16:52:18,646 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** Element **** [128GB, $1,089] 
+2018-04-23 16:52:18,735 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils]  *** Element **** [64GB, $1,085.86] 
+2018-04-23 16:52:18,810 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] **** PRINTING LIST FOR  2.0  ITEMS ***** 
+2018-04-23 16:52:18,816 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] PRODUCT DESC & PRICE 
+2018-04-23 16:52:18,834 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] 128GB 
+2018-04-23 16:52:18,843 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] $1,089 
+2018-04-23 16:52:18,853 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] PRODUCT DESC & PRICE 
+2018-04-23 16:52:18,874 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] 64GB 
+2018-04-23 16:52:18,888 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] $1,085.86 
+2018-04-23 16:52:18,899 {yyyy-MM-dd HH:mm:ss} INFO  [LogUtils] Scenario finishedGuest user watching a product 

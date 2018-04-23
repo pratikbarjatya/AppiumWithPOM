@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="86.348279">
+<testcase classname="Watching a Product" name="Guest user watching a product" time="86.348279">
+<system-out><![CDATA[Given I search for a product "oneplus 5t"...................................passed
+And I sort the search results by "Highest Price"............................passed
+When I select the "first" available product.................................passed
+And I watch the product.....................................................passed
+And I enter my credentials to sign in.......................................passed
+And I close the sign in page................................................passed
+And I press back button.....................................................passed
+And I want to print first "2" search results................................passed
+]]></system-out>
+</testcase>
+</testsuite>

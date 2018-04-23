@@ -1,0 +1,180 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 25440939668,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ProductWatchSteps.before(Scenario)"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Guest user watching a product",
+        "description": "",
+        "id": "watching-a-product;guest-user-watching-a-product",
+        "after": [
+          {
+            "result": {
+              "duration": 3499084077,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ProductWatchSteps.after(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10069366443,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I search for a product \"oneplus 5t\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "oneplus 5t",
+                  "offset": 24
+                }
+              ],
+              "location": "ProductWatchSteps.java:27"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10835211547,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I sort the search results by \"Highest Price\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Highest Price",
+                  "offset": 30
+                }
+              ],
+              "location": "ProductWatchSteps.java:32"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2130804647,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I select the \"first\" available product",
+            "match": {
+              "arguments": [
+                {
+                  "val": "first",
+                  "offset": 14
+                }
+              ],
+              "location": "ProductWatchSteps.java:38"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7796453662,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I watch the product",
+            "match": {
+              "location": "ProductWatchSteps.java:42"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 17994763992,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter my credentials to sign in",
+            "match": {
+              "location": "ProductWatchSteps.java:46"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "emailId",
+                  "password"
+                ],
+                "line": 11
+              },
+              {
+                "cells": [
+                  "helloworld@gmail.com",
+                  "helloworld"
+                ],
+                "line": 12
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1273440648,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I close the sign in page",
+            "match": {
+              "location": "ProductWatchSteps.java:52"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 956365775,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I press back button",
+            "match": {
+              "location": "ProductWatchSteps.java:56"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6351848542,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I want to print first \"2\" search results",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 23
+                }
+              ],
+              "location": "ProductWatchSteps.java:60"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Watching a Product",
+    "description": "As an application user,\nI should be able to watch a product in the app",
+    "id": "watching-a-product",
+    "keyword": "Feature",
+    "uri": "productWatch.feature"
+  }
+]
